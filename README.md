@@ -1,2 +1,2 @@
-![alt text]([http://url/to/img.png])
+![alt text](https://ibb.co/cgGLGSF)
 
